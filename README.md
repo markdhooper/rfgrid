@@ -15,4 +15,4 @@ I am looking to implement a real-time communication interface for Unity to take 
 I'll work on developing applications for the platform to demonstrate what is possible to achieve with the device.
 
 ### produce hardware kits
-Once the details are iorned out with the hardware, I want to produce DIY kits for people to try out for themselves.
+Once the details are figured out with the hardware, I want to produce DIY kits for people to try out for themselves.
